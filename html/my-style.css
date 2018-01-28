@@ -1,0 +1,16 @@
+.godawgs{
+    background-color:blueviolet; 
+    color:darkgoldenrod;
+    font-family:fantasy;
+    font-size:40;
+}
+.dawgsgo{
+    background-color: darkgoldenrod;
+    color:blueviolet;
+    font-size:40;
+}
+body {
+    background-image: "../img/UW-Quad.jpg";
+    background-repeat: no-repeat;
+    background-position: right top;
+}
